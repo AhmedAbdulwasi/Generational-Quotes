@@ -6,6 +6,7 @@ var quotes = [
 'Success isn\'t guaranteed. Hard work doesn\'t guarantee success. You can work as hard as you want It doesn\'t mean you will get success. Drive gives success. You can work hard without having the drive too.',
 'You got the Canadian mindset Bro I\'m more foreign than you. Cause You think rich I think poor. But I have the mentality For the grind to be rich. Which is superior to your way of thinking.',
 'Y\'all just looking for a false future.',
+'Politicians act like they are working for the people and that they are against the upper class (the rich). Ok, why are they millionaires? Think before you support.',
 'Haters be waking up REAL EARLY to have extra time to be a hater.',
 'Education gets you far but good MINDSET gets you farther.',
 'My enemies keep asking why I pray for them to go to jail instead of praying for their death and I say the exact same answer to them. I want them to be alive to witness their downfall.',
