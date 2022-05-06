@@ -9,7 +9,8 @@ var quotes = [
 'Politicians act like they are working for the people and that they are against the upper class (the rich). Ok, why are they millionaires? Think before you support.',
 'Haters be waking up REAL EARLY to have extra time to be a hater.',
 'Education gets you far but good MINDSET gets you farther.',
-'People wanna hear what they want to hear, it\'s "out of pocket" to tell the truth in this day and age.',
+'Sometimes I be talking to myself cause I wanna hear what a real person gotta say.',
+'People wanna hear what they want to hear, it\'s "out of pocket" to tell the truth in this day and age...',
 'My enemies keep asking why I pray for them to go to jail instead of praying for their death and I say the exact same answer to them. I want them to be alive to witness their downfall.',
 'So you want your enemy and rival to witness your progression? That gives them the drive to be better than you. Make them think you dumb and weak. Show up when needed.'
 ]
