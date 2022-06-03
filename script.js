@@ -11,7 +11,7 @@ var quotes = [
 'Education gets you far but good MINDSET gets you farther.',
 '"He\'s like me for real!" No he\'s not. Wake up please. ',
 'Sometimes I be talking to myself cause I wanna hear what a real person gotta say.',
-'People see you wearing a McDonald\'s uniform and they laugh at you, but you don\'t see that, you see that uniform representing MONEY being EARNED by the hour.',
+'People see you wearing a McDonald\'s uniform and they laugh at you, but you don\'t see that. You see that uniform representing MONEY being EARNED by the hour.',
 'People wanna hear what they want to hear, it\'s "out of pocket" to tell the truth in this day and age...',
 'My enemies keep asking why I pray for them to go to jail instead of praying for their death and I say the exact same answer to them. I want them to be alive to witness their downfall.',
 'So you want your enemy and rival to witness your progression? That gives them the drive to be better than you. Make them think you dumb and weak. Show up when needed.'
