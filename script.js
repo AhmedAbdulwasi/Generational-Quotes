@@ -10,6 +10,7 @@ var quotes = [
 'Haters be waking up REAL EARLY to have extra time to be a hater.',
 'Education gets you far but good MINDSET gets you farther.',
 'Never stay RELAXED.',
+'We live in a world where not how we are born shapes us, but the people around us.',
 '"He\'s like me for real!" No he\'s not. Wake up please. ',
 'Sometimes I be talking to myself cause I wanna hear what a real person gotta say.',
 'People see you wearing a McDonald\'s uniform and they laugh at you, but you don\'t see that. You see that uniform representing MONEY being EARNED by the hour.',
