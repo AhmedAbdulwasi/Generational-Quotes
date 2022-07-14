@@ -9,6 +9,8 @@ var quotes = [
 'Politicians act like they are working for the people and that they are against the upper class (the rich). Ok, why are they millionaires? Think before you support.',
 'Haters be waking up REAL EARLY to have extra time to be a hater.',
 'Education gets you far but good MINDSET gets you farther.',
+'I need a room full of mirrors so I can be surrounded by winners',
+'I wonder how it\'s like to be rich just for one day, because being it everyday is exhausting',    
 'Never stay RELAXED.',
 'We live in a world where not how we are born shapes us, but the people around us.',
 '"He\'s like me for real!" No he\'s not. Wake up please. ',
